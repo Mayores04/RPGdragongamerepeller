@@ -3,7 +3,6 @@
 <head>
   <meta charset="utf-8">
   <link rel="stylesheet" href="./style.css">
-  <title>RPG - Dragon Repeller</title>
 </head>
 <body>
   <div id="game">
